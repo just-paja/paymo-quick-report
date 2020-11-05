@@ -1,0 +1,30 @@
+{
+  "name": "paymo-quick-report",
+  "version": "1.0.0",
+  "description": "Print a quick monthly overview from Paymo",
+  "main": "reports.js",
+  "dependencies": {
+    "date-holidays": "^1.8.1",
+    "dotenv": "^8.2.0",
+    "moment-business-days": "^1.2.0",
+    "moment-timezone": "^0.5.31",
+    "node-fetch": "^2.6.1",
+    "query-string-manipulator": "^1.2.2"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ],
+    "parser": "babel-eslint"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "prettier-standard": "^16.4.1",
+    "standard": "^16.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
