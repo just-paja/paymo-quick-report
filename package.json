@@ -11,6 +11,9 @@
     "node-fetch": "^2.6.1",
     "query-string-manipulator": "^1.2.2"
   },
+  "bin": {
+    "paymo-quick-report": "lib/paymo-quick-report.js"
+  },
   "standard": {
     "env": [
       "jest"
