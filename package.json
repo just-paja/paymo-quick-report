@@ -1,6 +1,6 @@
 {
   "name": "paymo-quick-report",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print a quick monthly overview from Paymo",
   "main": "reports.js",
   "dependencies": {
