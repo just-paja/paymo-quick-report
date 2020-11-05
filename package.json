@@ -17,6 +17,9 @@
     ],
     "parser": "babel-eslint"
   },
+  "files": [
+    "lib"
+  ],
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "prettier-standard": "^16.4.1",
